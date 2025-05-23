@@ -2,8 +2,8 @@
 
 ## 👥 Integrantes
 
-- **Lucca Vilaça** — RA: 551538  
-- **Pedro Farath** — RA: 98608  
+- **Lucca Vilaça** — RM: 551538  
+- **Pedro Farath** — RM: 98608  
 
 ---
 
@@ -15,7 +15,7 @@
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Java 11+
+- Java 21+
 - Maven
 - Jakarta EE (SOAP, JAX-WS)
 
